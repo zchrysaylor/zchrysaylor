@@ -1,7 +1,6 @@
 ```typst
 // ~/whoami
 
-// compiles in Typst btw
 #text(size: 14pt, weight: "bold")[#let zach = (
   role: "software engineer",
   company: "delivery hero",
@@ -10,5 +9,5 @@
   editor: "neovim",
   harness: "pi",
   languages: ("typescript", "java", "python", "lua", "korean"),
-); #zach]
+); #zach]  // compiles in Typst btw
 ```
